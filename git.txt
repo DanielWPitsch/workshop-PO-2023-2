@@ -1,0 +1,8 @@
+conceitos:
+
+Git é um conjuntos de ferramentas que é como uma ponte de ligação entre o seu computador e o destino
+que será o gitHub ou o Gitlab.
+
+github é uma plataforma de versionamento de código, ele armazena as versões do seu projeto na nuvem.
+
+
